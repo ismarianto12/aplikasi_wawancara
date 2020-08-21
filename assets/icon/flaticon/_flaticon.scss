@@ -1,0 +1,99 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 06/03/2018 08:44
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-medical-history-4:before { content: "\f100"; }
+.flaticon-002-first-aid-kit-1:before { content: "\f101"; }
+.flaticon-003-test-tube:before { content: "\f102"; }
+.flaticon-004-teeth-brush:before { content: "\f103"; }
+.flaticon-005-medical-history-3:before { content: "\f104"; }
+.flaticon-006-medical-history-2:before { content: "\f105"; }
+.flaticon-007-healthy:before { content: "\f106"; }
+.flaticon-008-invoice:before { content: "\f107"; }
+.flaticon-009-vitamin:before { content: "\f108"; }
+.flaticon-010-cosmetic:before { content: "\f109"; }
+.flaticon-011-emergency-call:before { content: "\f10a"; }
+.flaticon-012-medicine-1:before { content: "\f10b"; }
+.flaticon-013-pharmacy:before { content: "\f10c"; }
+.flaticon-014-medical-history-1:before { content: "\f10d"; }
+.flaticon-015-drip:before { content: "\f10e"; }
+.flaticon-016-tablets:before { content: "\f10f"; }
+.flaticon-017-syringe:before { content: "\f110"; }
+.flaticon-018-poison:before { content: "\f111"; }
+.flaticon-019-ambulance:before { content: "\f112"; }
+.flaticon-020-drug:before { content: "\f113"; }
+.flaticon-021-first-aid-kit:before { content: "\f114"; }
+.flaticon-022-check:before { content: "\f115"; }
+.flaticon-023-hospital:before { content: "\f116"; }
+.flaticon-024-blood-test:before { content: "\f117"; }
+.flaticon-025-test:before { content: "\f118"; }
+.flaticon-026-soap:before { content: "\f119"; }
+.flaticon-027-medical-history:before { content: "\f11a"; }
+.flaticon-028-cream:before { content: "\f11b"; }
+.flaticon-029-stethoscope:before { content: "\f11c"; }
+.flaticon-030-medicine:before { content: "\f11d"; }
+    
+    $font-Flaticon-001-medical-history-4: "\f100";
+    $font-Flaticon-002-first-aid-kit-1: "\f101";
+    $font-Flaticon-003-test-tube: "\f102";
+    $font-Flaticon-004-teeth-brush: "\f103";
+    $font-Flaticon-005-medical-history-3: "\f104";
+    $font-Flaticon-006-medical-history-2: "\f105";
+    $font-Flaticon-007-healthy: "\f106";
+    $font-Flaticon-008-invoice: "\f107";
+    $font-Flaticon-009-vitamin: "\f108";
+    $font-Flaticon-010-cosmetic: "\f109";
+    $font-Flaticon-011-emergency-call: "\f10a";
+    $font-Flaticon-012-medicine-1: "\f10b";
+    $font-Flaticon-013-pharmacy: "\f10c";
+    $font-Flaticon-014-medical-history-1: "\f10d";
+    $font-Flaticon-015-drip: "\f10e";
+    $font-Flaticon-016-tablets: "\f10f";
+    $font-Flaticon-017-syringe: "\f110";
+    $font-Flaticon-018-poison: "\f111";
+    $font-Flaticon-019-ambulance: "\f112";
+    $font-Flaticon-020-drug: "\f113";
+    $font-Flaticon-021-first-aid-kit: "\f114";
+    $font-Flaticon-022-check: "\f115";
+    $font-Flaticon-023-hospital: "\f116";
+    $font-Flaticon-024-blood-test: "\f117";
+    $font-Flaticon-025-test: "\f118";
+    $font-Flaticon-026-soap: "\f119";
+    $font-Flaticon-027-medical-history: "\f11a";
+    $font-Flaticon-028-cream: "\f11b";
+    $font-Flaticon-029-stethoscope: "\f11c";
+    $font-Flaticon-030-medicine: "\f11d";
